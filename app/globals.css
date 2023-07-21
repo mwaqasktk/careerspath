@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-size{
+    font-size: 8px;
+}
+.text-xs{
+    font-size: 12px;
+}
+.text-x{
+    font-size: 10px;
+}
+.w-sidebar{
+    width: 25%;
+}
+.w-MainPage{
+    width: 50%;
+}
